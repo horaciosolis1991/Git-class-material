@@ -6,6 +6,7 @@
 
 Version control is a system that records changes made to a file or a set of files over time so that you can recall specific versions later. 
 It is possible for the team to look after the source code changes whenever needed. 
+
 The system records all the made changes to a file so a specific version may be rolled if required in the future.
 The responsibility of the Version control system is to keep all the team members on the same page. It makes sure that everyone on the team is working on the latest version of the file and, most importantly, makes sure that all these people can work simultaneously on the same project.
 
@@ -66,6 +67,15 @@ The basic Git workflow goes something like this:
 3) You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your local repository.
 
 4) If needed, you can pull those changes to your remote repository, so you can contribute with other team members.
+
+
+
+# Practical part
+
+We are going to create a folder and initialize it as a git working directory and make some changes on a file.
+
+
+
 
 
 
