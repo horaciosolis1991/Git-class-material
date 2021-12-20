@@ -13,7 +13,7 @@ The responsibility of the Version control system is to keep all the team members
 ## Benefits of version control
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/horaciosolis1991/Git-class-material/blob/main/res/Version-control-benefits.PNG?raw=true)
 
 
 
