@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
 import numpy as np
 impor scikit
 df=pd.read_csv()
+||||||| c9da3d7
+import pandas as pd
+=======
+import pandas as pd
+import numpy as np
+>>>>>>> 7ce1f1f7f9306b4b41e99e23c483582e2d13d662
