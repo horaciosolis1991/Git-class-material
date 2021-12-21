@@ -5,7 +5,7 @@ Each time you use git commit is very important to add a brief message so you wil
 
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-commit-bad-practice.png" width="440" height="237">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-commit-bad-practice.png" width="661" height="178">
 </p>
 
 
