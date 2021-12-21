@@ -66,7 +66,7 @@ On the commit-level, resetting is a way to move the tip of a branch to a differe
 </p>
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/after-reset.png" width="194" height="234">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/after-reset.png" width="219" height="275">
 </p>
 
 
