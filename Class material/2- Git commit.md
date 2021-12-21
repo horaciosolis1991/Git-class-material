@@ -32,7 +32,7 @@ working directory that will be lost during the checkout operation.
 
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/after-checkout.png" width="544" height="242">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/after-checkout.png" width="540" height="280">
 </p>
 
 
@@ -42,9 +42,33 @@ working directory that will be lost during the checkout operation.
 
 Reverting undoes a commit by creating a new commit. This is a safe way to undo changes, as it has no chance of re-writing the commit history.
 
+
+
+
+
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/before-revert.png" width="545" height="226">
+</p>
+
+
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/after-revert.png" width="751" height="276">
+</p>
+
+
+
 ## git reset
 
 On the commit-level, resetting is a way to move the tip of a branch to a different commit. This can be used to remove commits from the current branch.
+
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/before-revert.png" width="545" height="226">
+</p>
+
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/after-reset.png" width="194" height="234">
+</p>
+
 
 In addition to moving the current branch, you can also get git reset to alter the staged snapshot and/or the working directory by passing it one of the following flags:
 
