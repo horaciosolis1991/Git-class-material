@@ -5,9 +5,9 @@ Each time you use git commit is very important to add a brief message so you wil
 
 
 
-xxx
 
-![alt text](https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-commit-bad-practice.PNG?raw=true)
+
+![alt text](https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-commit-bad-practice.png?raw=true)
 
 
 Is very important to add a message to your commit, you can do that using git commit -m "my message", from the previous example, to create the commit #1 we
@@ -16,7 +16,7 @@ would use git commit -m "Fix 1". Notice that messages like "Fix 1" are a very ba
 A good practice is to add a brief but descriptive message to your commit as shown below:
 
 
-![alt text](https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-commit-good-practice.PNG?raw=true)
+![alt text](https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-commit-good-practice.png?raw=true)
 
 ## git checkout
 
