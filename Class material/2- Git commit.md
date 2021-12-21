@@ -7,7 +7,7 @@ Each time you use git commit is very important to add a brief message so you wil
 
 
 
-![alt text](https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-commit-bad-practice.png?raw=true)
+![alt text](https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-commit-bad-practice.png=100x20)
 
 
 Is very important to add a message to your commit, you can do that using git commit -m "my message", from the previous example, to create the commit #1 we
