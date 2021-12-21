@@ -8,7 +8,7 @@ Each time you use git commit is very important to add a brief message so you wil
 
 
 
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-commit-bad-practice.png" width="100" height="100">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-commit-bad-practice.png" width="440" height="153">
 
 Is very important to add a message to your commit, you can do that using git commit -m "my message", from the previous example, to create the commit #1 we
 would use git commit -m "Fix 1". Notice that messages like "Fix 1" are a very bad practice, as they are not saying anything about what you did on your files.
