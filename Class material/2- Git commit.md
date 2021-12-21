@@ -15,13 +15,27 @@ would use git commit -m "Fix 1". Notice that messages like "Fix 1" are a very ba
 A good practice is to add a brief but descriptive message to your commit as shown below:
 
 
-![alt text](https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-commit-good-practice.png?raw=true)
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-commit-good-practice.png" width="778" height="227">
+</p>
+
 
 ## git checkout
 
 The git checkout command is used to update the state of the repository to a specific point in the projects history. When passed with a branch name, 
 it lets you switch between branches.Since this has the potential to overwrite local changes, Git forces you to commit or stash any changes in the 
 working directory that will be lost during the checkout operation.
+
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/before-checkout.png" width="542" height="186">
+</p>
+
+
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/after-checkout.png" width="544" height="242">
+</p>
+
+
 
 
 ## git revert
