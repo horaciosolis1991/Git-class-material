@@ -29,7 +29,7 @@ working directory that will be lost during the checkout operation.
 <img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/before-checkout.png" width="540" height="231">
 </p>
 
-The syntax to checkout a commit is ** git checkout "commit_id" :
+The syntax to checkout a commit is **git checkout "commit_id"** :
 
 <p align="center">
 <img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/after-checkout.png" width="540" height="280">
@@ -48,7 +48,7 @@ Reverting undoes a commit by creating a new commit. This is a safe way to undo c
 <img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/before-revert.png" width="545" height="226">
 </p>
 
-The syntax to checkout a branch is ** git revert "commit_id" ** this will revert the commit "commit_id" to a state before that commit, it will also commit 
+The syntax to checkout a branch is **git revert "commit_id"** this will revert the commit "commit_id" to a state before that commit, it will also commit 
 those changes, so now, the current point in time (HEAD) will point to this new commit.
 
 <p align="center">
@@ -66,7 +66,7 @@ On the commit level, resetting is a way to move the tip of a branch to a differe
 </p>
 
 
-The syntax to checkout a branch is ** git reset "commit_id" ** this will remove all commits after the respective commit_id; ** using git reset is very 
+The syntax to checkout a branch is **git reset "commit_id"** this will remove all commits after the respective commit_id; ** using git reset is very 
 dangerous, as you may remove commit that are valuable for your work.
 
 <p align="center">
