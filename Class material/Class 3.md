@@ -6,7 +6,7 @@ branch will contain the same information as the branch (HEAD) that you are using
 
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/branches-intro.png" width="851" height="377">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/branches-intro.png" width="681" height="301">
 </p>
 
 
@@ -18,7 +18,7 @@ Branches are very useful for several reasons:
 
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/branches-utilities.png" width="717" height="353">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/branches-utilities.png" width="573" height="283">
 </p>
 
 
@@ -28,7 +28,7 @@ As mentionned before, having multiple branches on a single projects is very usef
 this will leave the current branch and create a copy of it in the new branch.
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-branch1.png" width="631" height="278">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-branch1.png" width="505" height="223">
 </p>
 
 
@@ -36,7 +36,7 @@ this will leave the current branch and create a copy of it in the new branch.
 Note: Be careful when creating a new branch, the content of that branch will be a copy of the content of the current branch ( and its commit) before the command execution.
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-branch2.png" width="545" height="270">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-branch2.png" width="436" height="216">
 </p>
 
 
@@ -51,7 +51,7 @@ Also, you can see a quick summary about you number of branches using **git branc
 
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/switch-branch.png" width="490" height="362">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/switch-branch.png" width="392" height="290">
 </p>
 
 
