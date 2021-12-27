@@ -6,3 +6,8 @@ import file4
 
 def func(a,b):
 	return a+b
+
+
+
+def mul(a,b):
+	return a*b
