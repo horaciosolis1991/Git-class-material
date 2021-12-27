@@ -1,3 +1,8 @@
 import file2
 import file3
 import file4
+
+
+
+
+def func():
