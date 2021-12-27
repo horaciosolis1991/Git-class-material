@@ -6,3 +6,17 @@ import file4
 
 
 def func():
+
+
+
+
+
+
+
+
+
+
+
+
+
+import file5
