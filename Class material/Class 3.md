@@ -68,4 +68,31 @@ Deleting a branch will also delete the information about all commits, be careful
 </p>
 
 
+
 ## merging branches
+
+
+
+Merge enables you to combined two branches, integrating them in one single branch.
+Let's assume that we have a second branch based on the main branch, we have develop some functionalities on that new branch and we want to integrate them
+with our main branch.
+
+
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/before-merge.png" width="384" height="168">
+</p>
+
+
+To merge the two branches we use the command **git merge "branch_to_merge"**. We select the branch we want to merge so it is very important to know on which 
+branch we currently are, as that branch is the one that will get the merge content. Git will determine an algorithm for the merge.
+After appliying the merge this is the scenario:
+
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/after-merge.png" width="462" height="197">
+</p>
+
+
+
+
+
+
