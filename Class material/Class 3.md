@@ -22,6 +22,25 @@ Branches are very useful for several reasons:
 </p>
 
 
+## Create new branch
+
+As mentionned before, having multiple branches on a single projects is very useful, so, in order to create a new branch you can use **git checkout -b "branch_name",
+this will leave the current branch and create a copy of it in the new branch.
+
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-branch1.png" width="851" height="377">
+</p>
+
+
+
+Note: Be careful when creating a new branch, the content of that branch will be a copy of the content of the current branch ( and its commit) before the command execution.
+
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-branch2.png" width="851" height="377">
+</p>
+
+
+
 
 ## switching branches
 
