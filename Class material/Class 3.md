@@ -57,9 +57,15 @@ Also, you can see a quick summary about you number of branches using **git branc
 
 ## deleting branches
 
+Sometimes is a good practice to delete a branch after merging it with the main branch.
+For cases like that you can delete your branch using  **git branch -d branch_name**  or **git branch -D branch_name** to forcely delete your branch.
+Deleting a branch will also delete the information about all commits, be careful when deleting branches.
 
 
 
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-delete-branch.png" width="375" height="211">
+</p>
 
 
 ## merging branches
