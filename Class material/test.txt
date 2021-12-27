@@ -1,1 +1,5 @@
-import file3
+import file4
+
+
+def func(a,b):
+	return a+b
