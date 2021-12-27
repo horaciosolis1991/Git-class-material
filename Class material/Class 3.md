@@ -28,7 +28,7 @@ As mentionned before, having multiple branches on a single projects is very usef
 this will leave the current branch and create a copy of it in the new branch.
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-branch1.png" width="851" height="377">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-branch1.png" width="631" height="278">
 </p>
 
 
@@ -36,7 +36,7 @@ this will leave the current branch and create a copy of it in the new branch.
 Note: Be careful when creating a new branch, the content of that branch will be a copy of the content of the current branch ( and its commit) before the command execution.
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-branch2.png" width="851" height="377">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/git-branch2.png" width="545" height="270">
 </p>
 
 
@@ -44,11 +44,15 @@ Note: Be careful when creating a new branch, the content of that branch will be 
 
 ## switching branches
 
-The switch branches just use **git branch "branch_name**. This command will leave the current branch (which could be anyone) and will switch to the specific
-branch.
+The switch branches just use **git checkout"branch_name**. This command will leave the current branch (which could be anyone) and will switch to the specific
+branch. Notice that checkout is used to change the branch but also the commit.
+Also, you can see a quick summary about you number of branches using **git branch**.
 
 
 
+<p align="center">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/switch-branch.png" width="490" height="362">
+</p>
 
 
 ## deleting branches
