@@ -7,7 +7,7 @@ The remote repository allow us to synchronize our local repository (and your loc
 
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/Version-control-workflow.png" width="614" height="309">
+<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/Version-control-workflow.jpg" width="614" height="309">
 </p>
 
 
@@ -60,9 +60,18 @@ repository.
 
 ## Git pull
 
+Git pull allows you to bring the latest changes from the remote repository to your local repository, after you set the url from your remote repository you can bring its 
+content using **git pull**.
+
 
 ## Git push
 
+Git pull allows you to push the latest changes from your local repository to your remote repository, after you set the url from your remote repository you can bring its 
+content using **git push**.
 
 
 ## Pull request
+
+Sometimes, pushing your changes directly to the main branch in the remote repository is not allowed due to safety measures. Sometimes is very important that at least one
+contributor more validates the  content you are trying to merge.
+
